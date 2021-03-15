@@ -1,8 +1,8 @@
 .desktop
 *.ini 
-apuntes
-~$puntes
+.apuntes
+.~$puntes
 *.docx
-Intro python
+.Intro python
 *.ipynb
-git log
+*.log
