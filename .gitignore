@@ -3,4 +3,6 @@
 apuntes
 ~$puntes
 *.docx
-Intro python.ipynb
+Intro python
+*.ipynb
+git log
