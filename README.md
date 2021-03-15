@@ -4,7 +4,7 @@ Economic Growth Course taken at Universidad del CEMA on the first semester 2021.
 
 ## Content
 
-Read the Course Program for complete information.
+Please read the Course Program for complete information.
 
 Programming Languages and Frameworks:
 * Python
