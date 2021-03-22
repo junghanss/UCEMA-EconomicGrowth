@@ -3,7 +3,5 @@
 .apuntes
 .~$puntes
 *.docx
-.Intro python
-*.ipynb
 *.log
 log
