@@ -5,3 +5,4 @@
 *.docx
 *.log
 log
+.ipynb_checkpoints
