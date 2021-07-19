@@ -8,4 +8,5 @@ Please read the Course Program for complete information.
 
 Programming Languages and Frameworks:
 * Python
+* Matlab
 
